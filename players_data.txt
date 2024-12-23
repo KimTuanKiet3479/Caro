@@ -1,0 +1,3 @@
+Kim Tuan Kiet,4,2,0
+Kiet Tuan Kim,0,1,0
+Hoang Duc Manh,2,4,0
